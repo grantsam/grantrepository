@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\bin\Debug\arraypraktikum.exe.config
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\bin\Debug\arraypraktikum.exe
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\bin\Debug\arraypraktikum.pdb
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\obj\Debug\arraypraktikum.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\obj\Debug\arraypraktikum.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\obj\Debug\arraypraktikum.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\obj\Debug\arraypraktikum.exe
+C:\Users\grant\source\repos\arraypraktikum\arraypraktikum\obj\Debug\arraypraktikum.pdb

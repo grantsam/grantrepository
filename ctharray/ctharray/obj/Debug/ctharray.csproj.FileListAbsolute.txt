@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\ctharray\ctharray\obj\Debug\ctharray.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\ctharray\ctharray\obj\Debug\ctharray.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\ctharray\ctharray\obj\Debug\ctharray.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\ctharray\ctharray\bin\Debug\ctharray.exe.config
+C:\Users\grant\source\repos\ctharray\ctharray\bin\Debug\ctharray.exe
+C:\Users\grant\source\repos\ctharray\ctharray\bin\Debug\ctharray.pdb
+C:\Users\grant\source\repos\ctharray\ctharray\obj\Debug\ctharray.exe
+C:\Users\grant\source\repos\ctharray\ctharray\obj\Debug\ctharray.pdb

@@ -1,0 +1,5 @@
+﻿  aritmatika.cpp
+C:\Users\grant\source\repos\aritmatika\aritmatika\aritmatika.cpp(12,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\grant\source\repos\aritmatika\aritmatika\aritmatika.cpp(15,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\grant\source\repos\aritmatika\aritmatika\aritmatika.cpp(18,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  aritmatika.vcxproj -> C:\Users\grant\source\repos\aritmatika\x64\Debug\aritmatika.exe

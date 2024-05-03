@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\grant\source\repos\fungsi\fungsi\Source.cpp(9,9): warning C4101: 'nilai': unreferenced local variable
+  fungsi.vcxproj -> C:\Users\grant\source\repos\fungsi\x64\Debug\dadu.exe

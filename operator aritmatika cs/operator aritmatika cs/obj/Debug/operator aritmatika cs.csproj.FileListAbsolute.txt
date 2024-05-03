@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\bin\Debug\operator aritmatika cs.exe.config
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\bin\Debug\operator aritmatika cs.exe
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\bin\Debug\operator aritmatika cs.pdb
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\obj\Debug\operator aritmatika cs.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\obj\Debug\operator aritmatika cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\obj\Debug\operator aritmatika cs.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\obj\Debug\operator aritmatika cs.exe
+C:\Users\grant\source\repos\operator aritmatika cs\operator aritmatika cs\obj\Debug\operator aritmatika cs.pdb

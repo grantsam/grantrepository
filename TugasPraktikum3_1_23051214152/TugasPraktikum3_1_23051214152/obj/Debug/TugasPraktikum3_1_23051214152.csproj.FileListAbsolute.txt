@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\obj\Debug\TugasPraktikum3_1_23051214152.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\obj\Debug\TugasPraktikum3_1_23051214152.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\obj\Debug\TugasPraktikum3_1_23051214152.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\bin\Debug\TugasPraktikum3_1_23051214152.exe.config
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\bin\Debug\TugasPraktikum3_1_23051214152.exe
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\bin\Debug\TugasPraktikum3_1_23051214152.pdb
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\obj\Debug\TugasPraktikum3_1_23051214152.exe
+C:\Users\grant\source\repos\TugasPraktikum3_1_23051214152\TugasPraktikum3_1_23051214152\obj\Debug\TugasPraktikum3_1_23051214152.pdb

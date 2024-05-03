@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\pointercs\pointercs\bin\Debug\pointercs.exe.config
+C:\Users\grant\source\repos\pointercs\pointercs\bin\Debug\pointercs.exe
+C:\Users\grant\source\repos\pointercs\pointercs\bin\Debug\pointercs.pdb
+C:\Users\grant\source\repos\pointercs\pointercs\obj\Debug\pointercs.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\pointercs\pointercs\obj\Debug\pointercs.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\pointercs\pointercs\obj\Debug\pointercs.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\pointercs\pointercs\obj\Debug\pointercs.exe
+C:\Users\grant\source\repos\pointercs\pointercs\obj\Debug\pointercs.pdb

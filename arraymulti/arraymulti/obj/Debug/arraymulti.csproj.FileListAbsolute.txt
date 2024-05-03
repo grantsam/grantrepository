@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\arraymulti\arraymulti\bin\Debug\arraymulti.exe.config
+C:\Users\grant\source\repos\arraymulti\arraymulti\bin\Debug\arraymulti.exe
+C:\Users\grant\source\repos\arraymulti\arraymulti\bin\Debug\arraymulti.pdb
+C:\Users\grant\source\repos\arraymulti\arraymulti\obj\Debug\arraymulti.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\arraymulti\arraymulti\obj\Debug\arraymulti.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\arraymulti\arraymulti\obj\Debug\arraymulti.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\arraymulti\arraymulti\obj\Debug\arraymulti.exe
+C:\Users\grant\source\repos\arraymulti\arraymulti\obj\Debug\arraymulti.pdb

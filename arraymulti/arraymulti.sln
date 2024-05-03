@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraymulti", "arraymulti\arraymulti.csproj", "{89AB24A5-A3B8-4EED-850F-38F30F2BD815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AB24A5-A3B8-4EED-850F-38F30F2BD815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AB24A5-A3B8-4EED-850F-38F30F2BD815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AB24A5-A3B8-4EED-850F-38F30F2BD815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AB24A5-A3B8-4EED-850F-38F30F2BD815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FB0AE58-A900-4410-91B8-41345B05F926}
+	EndGlobalSection
+EndGlobal

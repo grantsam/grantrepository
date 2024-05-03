@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\grant\source\repos\library array\library array\Source.cpp(20,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\grant\source\repos\library array\library array\Source.cpp(23,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\grant\source\repos\library array\library array\Source.cpp(26,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+  library array.vcxproj -> C:\Users\grant\source\repos\library array\x64\Debug\library array.exe

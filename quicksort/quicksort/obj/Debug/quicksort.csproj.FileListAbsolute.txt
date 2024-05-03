@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\quicksort\quicksort\bin\Debug\quicksort.exe.config
+C:\Users\grant\source\repos\quicksort\quicksort\bin\Debug\quicksort.exe
+C:\Users\grant\source\repos\quicksort\quicksort\bin\Debug\quicksort.pdb
+C:\Users\grant\source\repos\quicksort\quicksort\obj\Debug\quicksort.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\quicksort\quicksort\obj\Debug\quicksort.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\quicksort\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\quicksort\quicksort\obj\Debug\quicksort.exe
+C:\Users\grant\source\repos\quicksort\quicksort\obj\Debug\quicksort.pdb

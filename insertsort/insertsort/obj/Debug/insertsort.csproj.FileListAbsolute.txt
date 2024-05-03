@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\insertsort\insertsort\bin\Debug\insertsort.exe.config
+C:\Users\grant\source\repos\insertsort\insertsort\bin\Debug\insertsort.exe
+C:\Users\grant\source\repos\insertsort\insertsort\bin\Debug\insertsort.pdb
+C:\Users\grant\source\repos\insertsort\insertsort\obj\Debug\insertsort.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\insertsort\insertsort\obj\Debug\insertsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\insertsort\insertsort\obj\Debug\insertsort.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\insertsort\insertsort\obj\Debug\insertsort.exe
+C:\Users\grant\source\repos\insertsort\insertsort\obj\Debug\insertsort.pdb

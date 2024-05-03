@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\Searching\Searching\obj\Debug\Searching.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\Searching\Searching\obj\Debug\Searching.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\Searching\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\Searching\Searching\bin\Debug\Searching.exe.config
+C:\Users\grant\source\repos\Searching\Searching\bin\Debug\Searching.exe
+C:\Users\grant\source\repos\Searching\Searching\bin\Debug\Searching.pdb
+C:\Users\grant\source\repos\Searching\Searching\obj\Debug\Searching.exe
+C:\Users\grant\source\repos\Searching\Searching\obj\Debug\Searching.pdb

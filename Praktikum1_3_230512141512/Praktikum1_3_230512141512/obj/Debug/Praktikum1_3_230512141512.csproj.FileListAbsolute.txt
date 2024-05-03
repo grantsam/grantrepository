@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\bin\Debug\Praktikum1_3_230512141512.exe.config
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\bin\Debug\Praktikum1_3_230512141512.exe
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\bin\Debug\Praktikum1_3_230512141512.pdb
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\obj\Debug\Praktikum1_3_230512141512.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\obj\Debug\Praktikum1_3_230512141512.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\obj\Debug\Praktikum1_3_230512141512.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\obj\Debug\Praktikum1_3_230512141512.exe
+C:\Users\grant\source\repos\Praktikum1_3_230512141512\Praktikum1_3_230512141512\obj\Debug\Praktikum1_3_230512141512.pdb

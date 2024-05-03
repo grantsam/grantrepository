@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\Heapsort\Heapsort\bin\Debug\Heapsort.exe.config
+C:\Users\grant\source\repos\Heapsort\Heapsort\bin\Debug\Heapsort.exe
+C:\Users\grant\source\repos\Heapsort\Heapsort\bin\Debug\Heapsort.pdb
+C:\Users\grant\source\repos\Heapsort\Heapsort\obj\Debug\Heapsort.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\Heapsort\Heapsort\obj\Debug\Heapsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\Heapsort\Heapsort\obj\Debug\Heapsort.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\Heapsort\Heapsort\obj\Debug\Heapsort.exe
+C:\Users\grant\source\repos\Heapsort\Heapsort\obj\Debug\Heapsort.pdb

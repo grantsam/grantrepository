@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\bin\Debug\prepraktikum1.exe.config
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\bin\Debug\prepraktikum1.exe
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\bin\Debug\prepraktikum1.pdb
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\obj\Debug\prepraktikum1.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\obj\Debug\prepraktikum1.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\obj\Debug\prepraktikum1.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\obj\Debug\prepraktikum1.exe
+C:\Users\grant\source\repos\prepraktikum1\prepraktikum1\obj\Debug\prepraktikum1.pdb

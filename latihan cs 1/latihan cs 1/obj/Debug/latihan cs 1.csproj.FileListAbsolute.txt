@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\obj\Debug\latihan cs 1.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\obj\Debug\latihan cs 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\obj\Debug\latihan cs 1.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\bin\Debug\latihan cs 1.exe.config
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\bin\Debug\latihan cs 1.exe
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\bin\Debug\latihan cs 1.pdb
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\obj\Debug\latihan cs 1.exe
+C:\Users\grant\source\repos\latihan cs 1\latihan cs 1\obj\Debug\latihan cs 1.pdb

@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\continue\continue\bin\Debug\@continue.exe.config
+C:\Users\grant\source\repos\continue\continue\bin\Debug\@continue.exe
+C:\Users\grant\source\repos\continue\continue\bin\Debug\@continue.pdb
+C:\Users\grant\source\repos\continue\continue\obj\Debug\continue.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\continue\continue\obj\Debug\continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\continue\continue\obj\Debug\continue.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\continue\continue\obj\Debug\@continue.exe
+C:\Users\grant\source\repos\continue\continue\obj\Debug\@continue.pdb

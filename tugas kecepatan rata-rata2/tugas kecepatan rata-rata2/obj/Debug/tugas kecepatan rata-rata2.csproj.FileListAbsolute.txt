@@ -1,0 +1,8 @@
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\bin\Debug\tugas kecepatan rata-rata2.exe.config
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\bin\Debug\tugas kecepatan rata-rata2.exe
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\bin\Debug\tugas kecepatan rata-rata2.pdb
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\obj\Debug\tugas kecepatan rata-rata2.csproj.AssemblyReference.cache
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\obj\Debug\tugas kecepatan rata-rata2.csproj.SuggestedBindingRedirects.cache
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\obj\Debug\tugas kecepatan rata-rata2.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\obj\Debug\tugas kecepatan rata-rata2.exe
+C:\Users\grant\source\repos\tugas kecepatan rata-rata2\tugas kecepatan rata-rata2\obj\Debug\tugas kecepatan rata-rata2.pdb
